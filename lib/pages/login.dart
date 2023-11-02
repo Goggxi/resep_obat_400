@@ -121,12 +121,12 @@ class _LoginPageState extends State<LoginPage> {
             Align(
               alignment: Alignment.topCenter,
               child: Padding(
-                padding: EdgeInsets.only(top: size.height * 0.16),
+                padding: EdgeInsets.only(top: size.height * 0.14),
                 child: Column(
                   children: [
                     SizedBox(
-                      width: size.width * 0.3,
-                      height: size.width * 0.3,
+                      width: size.width * 0.2,
+                      height: size.width * 0.2,
                       child: Image.asset('assets/logo-bg.jpeg'),
                     ),
                     const SizedBox(height: 0, width: double.infinity),

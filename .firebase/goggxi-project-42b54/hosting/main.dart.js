@@ -94104,7 +94104,7 @@ s.I$=0
 this.be()},
 H(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=A.F(a),h=A.bB(a,B.cP,t.l).w.a,g=i.ax.b
 g=A.a([B.l,B.l,B.l,A.G(51,g.gl(g)>>>16&255,g.gl(g)>>>8&255,g.gl(g)&255),g],t.t_)
-s=h.a*0.3
+s=h.a*0.2
 r=t.p
 s=A.bO(A.a([A.d3(A.aA5("assets/logo-bg.jpeg"),s,s),B.Gb],r),B.a8,B.E,B.U)
 q=A.a([new A.dQ(0,B.cR,A.G(B.c.bz(25.5),0,0,0),B.a_j,8)],t.sq)
@@ -94115,7 +94115,7 @@ m=k.w
 l=A.dh(24)
 m=A.aAZ(!0,B.d7,!1,j,!0,B.G,j,A.aKH(),k.f,j,j,j,j,2,A.f5(j,new A.cX(4,l,B.aU),j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,"Masukkan password",j,j,j,j,!1,!0,j,j,j,j,j,j,j,j,j,j,j,A.hr(j,A.pj(m?B.l1:B.l2,j,j,j),j,k.gah3(),j,j,j,j),j,j,j,j),B.ap,!0,j,!0,j,!1,j,j,j,B.ms,j,j,j,1,j,j,!m,"\u2022",j,j,j,j,j,j,!1,j,!0,j,B.kG,j,j,B.cS,B.c9,j,j,j,j,j,j,B.br,j,B.mr,j,B.em,j,j)
 l=A.a9w(j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.cb(A.dh(24),new A.aU(A.F(a).fr,1,B.I,-1)),j,j,j,j)
-return A.BQ(j,A.cQ(j,A.qr(B.du,A.a([new A.ea(B.h8,j,j,new A.bQ(new A.ax(0,h.b*0.16,0,0),s,j),j),new A.ea(B.h7,j,j,A.cQ(j,A.bO(A.a([B.a_X,new A.fs(1,B.bJ,A.Cl(A.bO(A.a([p,B.aY,o,B.aB,n,B.aY,m,B.a2J,A.d3(A.yK(B.a8H,k.r?j:new A.ast(k),l),50,1/0)],r),B.ak,B.fj,B.aF),j,B.bW),j)],r),B.a8,B.E,B.aF),B.p,j,j,new A.cC(i.go,j,j,B.Hz,q,j,B.aN),j,j,j,j,j,j,j),j)],r),B.G,B.dk),B.p,j,j,new A.cC(j,j,j,j,j,new A.tN(B.h8,B.h7,B.ep,g,j,j),B.aN),j,j,j,j,j,j,j),j)},
+return A.BQ(j,A.cQ(j,A.qr(B.du,A.a([new A.ea(B.h8,j,j,new A.bQ(new A.ax(0,h.b*0.14,0,0),s,j),j),new A.ea(B.h7,j,j,A.cQ(j,A.bO(A.a([B.a_X,new A.fs(1,B.bJ,A.Cl(A.bO(A.a([p,B.aY,o,B.aB,n,B.aY,m,B.a2J,A.d3(A.yK(B.a8H,k.r?j:new A.ast(k),l),50,1/0)],r),B.ak,B.fj,B.aF),j,B.bW),j)],r),B.a8,B.E,B.aF),B.p,j,j,new A.cC(i.go,j,j,B.Hz,q,j,B.aN),j,j,j,j,j,j,j),j)],r),B.G,B.dk),B.p,j,j,new A.cC(j,j,j,j,j,new A.tN(B.h8,B.h7,B.ep,g,j,j),B.aN),j,j,j,j,j,j,j),j)},
 Rg(a,b){var s=null,r=A.a([A.bW(s,B.eo,b)],t.VO)
 r.push(B.fX)
 return A.CS(A.bW(r,s,s),s,s)}}
@@ -94280,7 +94280,7 @@ break}A.af3(m,A.pz(new A.avd(),null,k),new A.ave())}case 1:return A.Q(q,r)}})
 return A.R($async$u1,r)},
 b9(){this.u1()
 this.bl()},
-H(a){var s=A.bB(a,B.cP,t.l).w.a.a*0.4
+H(a){var s=A.bB(a,B.cP,t.l).w.a.a*0.2
 return A.BQ(null,A.bO(A.a([A.d3(A.aA5("assets/logo-bg.jpeg"),s,s),B.Gb],t.p),B.a8,B.iR,B.U),null)}}
 A.avb.prototype={
 $1(a){return B.pi},

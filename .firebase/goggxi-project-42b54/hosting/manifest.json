@@ -1,11 +1,11 @@
 {
-    "name": "resep_obat_400",
-    "short_name": "resep_obat_400",
+    "name": "Resep Obat",
+    "short_name": "Resep Obat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Web Resep Obat",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
